@@ -1,0 +1,16 @@
+# Игнорируем папки сборки и отладки Visual Studio
+bin/
+obj/
+.vs/
+
+# Игнорируем временные файлы пользователя
+*.user
+*.suo
+*.cache
+*.dll
+*.exe
+*.pdb
+
+# Файлы ReSharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
